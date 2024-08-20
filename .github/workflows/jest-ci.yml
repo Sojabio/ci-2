@@ -1,4 +1,4 @@
-name: jest-and-docker-ci
+name: jest-and-docker-ci-2
 
 on: push
 
